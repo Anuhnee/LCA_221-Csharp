@@ -1,0 +1,6 @@
+C:\Users\Anthony\Desktop\C-Sharp-Programs\ManyMethods\Class1 - ManyMethods\bin\Debug\Class1 - ManyMethods.exe.config
+C:\Users\Anthony\Desktop\C-Sharp-Programs\ManyMethods\Class1 - ManyMethods\bin\Debug\Class1 - ManyMethods.exe
+C:\Users\Anthony\Desktop\C-Sharp-Programs\ManyMethods\Class1 - ManyMethods\bin\Debug\Class1 - ManyMethods.pdb
+C:\Users\Anthony\Desktop\C-Sharp-Programs\ManyMethods\Class1 - ManyMethods\obj\Debug\Class1 - ManyMethods.exe
+C:\Users\Anthony\Desktop\C-Sharp-Programs\ManyMethods\Class1 - ManyMethods\obj\Debug\Class1 - ManyMethods.pdb
+C:\Users\Anthony\Desktop\C-Sharp-Programs\ManyMethods\Class1 - ManyMethods\obj\Debug\Class1 - ManyMethods.csprojAssemblyReference.cache
