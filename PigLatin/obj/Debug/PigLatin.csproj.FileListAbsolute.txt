@@ -4,3 +4,9 @@ C:\Users\Anthony\Desktop\C-Sharp-Programs\PigLatin\PigLatin\bin\Debug\PigLatin.p
 C:\Users\Anthony\Desktop\C-Sharp-Programs\PigLatin\PigLatin\obj\Debug\PigLatin.csprojAssemblyReference.cache
 C:\Users\Anthony\Desktop\C-Sharp-Programs\PigLatin\PigLatin\obj\Debug\PigLatin.exe
 C:\Users\Anthony\Desktop\C-Sharp-Programs\PigLatin\PigLatin\obj\Debug\PigLatin.pdb
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\PigLatin\bin\Debug\PigLatin.exe.config
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\PigLatin\bin\Debug\PigLatin.exe
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\PigLatin\bin\Debug\PigLatin.pdb
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\PigLatin\obj\Debug\PigLatin.csprojAssemblyReference.cache
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\PigLatin\obj\Debug\PigLatin.exe
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\PigLatin\obj\Debug\PigLatin.pdb
