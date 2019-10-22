@@ -8,7 +8,7 @@ namespace Class1___ManyMethods
 {
     class ManyMethods
     {
-        static void Main()
+        public static void Main()
         {
             hello();
             addition();
