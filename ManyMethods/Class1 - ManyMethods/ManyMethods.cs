@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Class1___ManyMethods
 {
-    class Program
+    class ManyMethods
     {
-        static void Main()
+        public static void Main()
         {
             hello();
             addition();
