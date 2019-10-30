@@ -8,3 +8,4 @@ C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\masterMind\obj\Debug\netcore
 C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\masterMind\obj\Debug\netcoreapp3.0\masterMind.AssemblyInfo.cs
 C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\masterMind\obj\Debug\netcoreapp3.0\masterMind.dll
 C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\masterMind\obj\Debug\netcoreapp3.0\masterMind.pdb
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\masterMind\obj\Debug\netcoreapp3.0\masterMind.csprojAssemblyReference.cache
