@@ -1,0 +1,6 @@
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ManyMethods\Class1 - ManyMethods\bin\Debug\Class1 - ManyMethods.exe.config
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ManyMethods\Class1 - ManyMethods\bin\Debug\Class1 - ManyMethods.exe
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ManyMethods\Class1 - ManyMethods\bin\Debug\Class1 - ManyMethods.pdb
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ManyMethods\Class1 - ManyMethods\obj\Debug\ManyMethods.csprojAssemblyReference.cache
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ManyMethods\Class1 - ManyMethods\obj\Debug\Class1 - ManyMethods.exe
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ManyMethods\Class1 - ManyMethods\obj\Debug\Class1 - ManyMethods.pdb
