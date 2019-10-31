@@ -1,0 +1,11 @@
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\masterMind\bin\Debug\netcoreapp3.0\masterMind.exe
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\masterMind\bin\Debug\netcoreapp3.0\masterMind.deps.json
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\masterMind\bin\Debug\netcoreapp3.0\masterMind.runtimeconfig.json
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\masterMind\bin\Debug\netcoreapp3.0\masterMind.runtimeconfig.dev.json
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\masterMind\bin\Debug\netcoreapp3.0\masterMind.dll
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\masterMind\bin\Debug\netcoreapp3.0\masterMind.pdb
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\masterMind\obj\Debug\netcoreapp3.0\masterMind.AssemblyInfoInputs.cache
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\masterMind\obj\Debug\netcoreapp3.0\masterMind.AssemblyInfo.cs
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\masterMind\obj\Debug\netcoreapp3.0\masterMind.dll
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\masterMind\obj\Debug\netcoreapp3.0\masterMind.pdb
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\masterMind\obj\Debug\netcoreapp3.0\masterMind.csprojAssemblyReference.cache

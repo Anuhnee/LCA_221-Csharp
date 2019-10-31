@@ -1,0 +1,11 @@
+C:\Users\Anthony\source\repos\LCA-Csharp\TicTacToe\bin\Debug\netcoreapp3.0\TicTacToe.exe
+C:\Users\Anthony\source\repos\LCA-Csharp\TicTacToe\bin\Debug\netcoreapp3.0\TicTacToe.deps.json
+C:\Users\Anthony\source\repos\LCA-Csharp\TicTacToe\bin\Debug\netcoreapp3.0\TicTacToe.runtimeconfig.json
+C:\Users\Anthony\source\repos\LCA-Csharp\TicTacToe\bin\Debug\netcoreapp3.0\TicTacToe.runtimeconfig.dev.json
+C:\Users\Anthony\source\repos\LCA-Csharp\TicTacToe\bin\Debug\netcoreapp3.0\TicTacToe.dll
+C:\Users\Anthony\source\repos\LCA-Csharp\TicTacToe\bin\Debug\netcoreapp3.0\TicTacToe.pdb
+C:\Users\Anthony\source\repos\LCA-Csharp\TicTacToe\obj\Debug\netcoreapp3.0\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\LCA-Csharp\TicTacToe\obj\Debug\netcoreapp3.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\LCA-Csharp\TicTacToe\obj\Debug\netcoreapp3.0\TicTacToe.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\LCA-Csharp\TicTacToe\obj\Debug\netcoreapp3.0\TicTacToe.dll
+C:\Users\Anthony\source\repos\LCA-Csharp\TicTacToe\obj\Debug\netcoreapp3.0\TicTacToe.pdb

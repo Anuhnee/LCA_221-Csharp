@@ -1,0 +1,3 @@
+C:\Users\Anthony\source\repos\LCA-Csharp\LCA-Csharp\obj\Debug\netcoreapp3.0\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\LCA-Csharp\LCA-Csharp\obj\Debug\netcoreapp3.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\LCA-Csharp\LCA-Csharp\obj\Debug\netcoreapp3.0\RockPaperScissors.AssemblyInfo.cs
