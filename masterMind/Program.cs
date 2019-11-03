@@ -3,17 +3,16 @@ using System.Collections.Generic;
 
 namespace masterMind
 {
-    class Program
+    internal class Program
     {
-        static List<string> colors = new List<string> { "Red", "Yellow", "Blue" };
-        static Random compSelect = new Random();
-        static string UserGuess = Console.ReadLine();
+        private static List<string> colors = new List<string> { "Red", "Yellow", "Blue" };
+        private static Random compSelect = new Random();
+        private static string UserGuess = Console.ReadLine();
 
-        static int guessCompare = 0;
-        static bool WinCheck = false;
+        private static int guessCompare = 0;
+        private static bool WinCheck = true;
 
-
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Mastermind!\n \nThe computer will randomly choose 2 out of 3 colors.\n \nRed, Yellow, or Blue\n \nPlease enter in your guess: ");
             int colorIndex = compSelect.Next(colors.Count);
@@ -24,31 +23,28 @@ namespace masterMind
             string CPUcolors = color1 + " " + color2;
 
             //Console.WriteLine("Enter in your guess:");
+            guessCompare = string.Compare(UserGuess, CPUcolors, true);
 
-
-            while (UserGuess != CPUcolors)
+            if (WinCheck == true)
             {
-                guessCompare = string.Compare(UserGuess, CPUcolors);
+                Console.WriteLine("You win!");
+                Console.ReadLine();
+            }
+            else
+            {
+                Console.WriteLine("Sorry, try again");
+                //hints go here, need to figure out how hint logic is to be represented
+            }
+
+            do
+            {
                 Console.WriteLine("Enter in your guess:");
                 UserGuess = Console.ReadLine();
 
-
-                if (WinCheck == true)
-                {
-                    Console.WriteLine("You win!");
-                    Console.ReadLine();
-
-                }
+                Console.WriteLine(guessCompare);
             }
+            while (UserGuess != CPUcolors);
+
         }
-
-
     }
-
-
-
-
-
-
-
 }
