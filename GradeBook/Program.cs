@@ -37,26 +37,24 @@ namespace GradeBook
 
             int totalGrade;
             int avgGrade;
-            int n;
             int highGrade;
             int lowGrade;
            
             foreach (KeyValuePair<string, string> entry in gradeBook)
             {
            
-                String[] tom = entry.Value.Split(" ");//getting each grade value and putting it in a string array
-                lowGrade = Convert.ToInt32(tom.Min());//converting to 32nbit integer and taking the lowest value in tom
-                highGrade = Convert.ToInt32(tom.Max());
+                String[] gradeArray = entry.Value.Split(" ");//getting each grade value from gradeBook dictionary and putting it in a string array called gradeArray
+                lowGrade = Convert.ToInt32(gradeArray.Min());//converting to 32bit integer and taking the lowest value in gradeArray and putting value to lowGrade
+                highGrade = Convert.ToInt32(gradeArray.Max());//converting to 32bit integer and taking the highest value in gradeArrat and putting value to highGrade
 
-                n = tom.Length;
 
-                for(int i = 0; i<tom.Length; i++) //this for loop add the converted interger value of tom and adds it to total 'list'
+                for(int i = 0; i < gradeArray.Length; i++) //for-loop adds the converted integer value of gradeArray to the total list
                 {
-                    total.Add(Convert.ToInt32(tom[i]));
+                    total.Add(Convert.ToInt32(gradeArray[i]));
                 }
 
                 totalGrade = total.Sum();
-                avgGrade = totalGrade / n;
+                avgGrade = totalGrade / gradeArray.Length;
                 
                 Console.WriteLine("Student: {0}", entry.Key);
                 Console.WriteLine("Grades: {0}", entry.Value);
