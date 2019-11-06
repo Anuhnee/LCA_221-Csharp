@@ -1,0 +1,11 @@
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp3.0\TowersOfHanoi.csprojAssemblyReference.cache
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp3.0\TowersOfHanoi.AssemblyInfoInputs.cache
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp3.0\TowersOfHanoi.AssemblyInfo.cs
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\TowersOfHanoi\TowersOfHanoi\bin\Debug\netcoreapp3.0\TowersOfHanoi.exe
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\TowersOfHanoi\TowersOfHanoi\bin\Debug\netcoreapp3.0\TowersOfHanoi.deps.json
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\TowersOfHanoi\TowersOfHanoi\bin\Debug\netcoreapp3.0\TowersOfHanoi.runtimeconfig.json
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\TowersOfHanoi\TowersOfHanoi\bin\Debug\netcoreapp3.0\TowersOfHanoi.runtimeconfig.dev.json
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\TowersOfHanoi\TowersOfHanoi\bin\Debug\netcoreapp3.0\TowersOfHanoi.dll
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\TowersOfHanoi\TowersOfHanoi\bin\Debug\netcoreapp3.0\TowersOfHanoi.pdb
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp3.0\TowersOfHanoi.dll
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp3.0\TowersOfHanoi.pdb

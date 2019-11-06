@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace masterMind
 {
-    internal class Program
+    internal class MasterMind
     {
         private static List<string> colors = new List<string> { "Red", "Yellow", "Blue" };
         private static Random CPUselect = new Random();

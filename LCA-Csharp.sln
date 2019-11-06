@@ -24,6 +24,8 @@ Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "TicTacToe", "TicTacToe\obj\
 		AttachLaunchAction = No
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManyClasses", "ManyClasses\ManyClasses.csproj", "{ED7AB424-D568-417C-BB9A-F83B8B6CE9A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -68,6 +70,14 @@ Global
 		{AF901131-C8BB-4E23-B94C-CE9EB5925A08}.Debug|x64.ActiveCfg = Release|x64
 		{AF901131-C8BB-4E23-B94C-CE9EB5925A08}.Release|Any CPU.ActiveCfg = Release|x64
 		{AF901131-C8BB-4E23-B94C-CE9EB5925A08}.Release|x64.ActiveCfg = Release|x64
+		{ED7AB424-D568-417C-BB9A-F83B8B6CE9A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7AB424-D568-417C-BB9A-F83B8B6CE9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7AB424-D568-417C-BB9A-F83B8B6CE9A8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{ED7AB424-D568-417C-BB9A-F83B8B6CE9A8}.Debug|x64.Build.0 = Debug|Any CPU
+		{ED7AB424-D568-417C-BB9A-F83B8B6CE9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7AB424-D568-417C-BB9A-F83B8B6CE9A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED7AB424-D568-417C-BB9A-F83B8B6CE9A8}.Release|x64.ActiveCfg = Release|Any CPU
+		{ED7AB424-D568-417C-BB9A-F83B8B6CE9A8}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

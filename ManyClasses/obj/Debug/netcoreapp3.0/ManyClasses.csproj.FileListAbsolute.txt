@@ -1,0 +1,11 @@
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ManyClasses\obj\Debug\netcoreapp3.0\ManyClasses.csprojAssemblyReference.cache
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ManyClasses\obj\Debug\netcoreapp3.0\ManyClasses.AssemblyInfoInputs.cache
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ManyClasses\obj\Debug\netcoreapp3.0\ManyClasses.AssemblyInfo.cs
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ManyClasses\bin\Debug\netcoreapp3.0\ManyClasses.exe
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ManyClasses\bin\Debug\netcoreapp3.0\ManyClasses.deps.json
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ManyClasses\bin\Debug\netcoreapp3.0\ManyClasses.runtimeconfig.json
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ManyClasses\bin\Debug\netcoreapp3.0\ManyClasses.runtimeconfig.dev.json
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ManyClasses\bin\Debug\netcoreapp3.0\ManyClasses.dll
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ManyClasses\bin\Debug\netcoreapp3.0\ManyClasses.pdb
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ManyClasses\obj\Debug\netcoreapp3.0\ManyClasses.dll
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ManyClasses\obj\Debug\netcoreapp3.0\ManyClasses.pdb
