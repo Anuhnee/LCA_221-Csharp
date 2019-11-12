@@ -1,0 +1,10 @@
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\Heroes_Villains\bin\Debug\netcoreapp3.0\Heroes_Villains.exe
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\Heroes_Villains\bin\Debug\netcoreapp3.0\Heroes_Villains.deps.json
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\Heroes_Villains\bin\Debug\netcoreapp3.0\Heroes_Villains.runtimeconfig.json
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\Heroes_Villains\bin\Debug\netcoreapp3.0\Heroes_Villains.runtimeconfig.dev.json
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\Heroes_Villains\bin\Debug\netcoreapp3.0\Heroes_Villains.dll
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\Heroes_Villains\bin\Debug\netcoreapp3.0\Heroes_Villains.pdb
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\Heroes_Villains\obj\Debug\netcoreapp3.0\Heroes_Villains.AssemblyInfoInputs.cache
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\Heroes_Villains\obj\Debug\netcoreapp3.0\Heroes_Villains.AssemblyInfo.cs
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\Heroes_Villains\obj\Debug\netcoreapp3.0\Heroes_Villains.dll
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\Heroes_Villains\obj\Debug\netcoreapp3.0\Heroes_Villains.pdb
