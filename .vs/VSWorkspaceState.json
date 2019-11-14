@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\RockPaperScissors",
-    "\\ToDoList",
-    "\\TowersOfHanoi"
+    "\\CarLot",
+    "\\CarLot\\CarLot"
   ],
-  "SelectedNode": "\\TowersOfHanoi\\TowersOfHanoi.sln",
+  "SelectedNode": "\\CarLot",
   "PreviewInSolutionExplorer": false
 }

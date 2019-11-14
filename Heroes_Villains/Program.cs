@@ -56,7 +56,7 @@ namespace Heroes_Villains
         public string RealName { get; set; }
         public string SuperPower { get; set; }
 
-        public Superhero(string Name, string iRealName, string iSuperPower, string Nickname) : base(Name, Nickname)
+        public Superhero(string Name, string iRealName, string iSuperPower, string Nickname) : base(iName, Nickname)
         {
             SuperPower = iSuperPower;
             RealName = iRealName;
