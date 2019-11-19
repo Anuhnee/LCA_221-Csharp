@@ -26,42 +26,40 @@ namespace ToDoList
                     quitProgram = true;
                     Console.WriteLine("Goodbye!");
                 }
-                else
+                else if (continueProgram == true)
                 {
-                    while (continueProgram = true)
+                    Console.WriteLine("\nPlease enter in the task you need to do:");
+                    string userTask = Console.ReadLine();
+
+                    Console.WriteLine("\nEnter in due date: ");
+                    string userDueDate = Console.ReadLine();
+
+                    Console.WriteLine("\nEnter in priority level (High, Medium, Low)");
+                    string userPriority = Console.ReadLine();
+
+                    todoItem userItem = new todoItem(userTask, userDueDate, userPriority);
+
+                    ToDoList.Add(userItem);
+
+                    Console.WriteLine("\nDo you wish to enter in another item?");
+                    string newItemInput = Console.ReadLine();
+                    newItemInput.ToLower();
+
+                    if (newItemInput == "yes" || newItemInput == "Yes")
                     {
-                        Console.WriteLine("Please enter in the task you need to do:");
-                        string userTask = Console.ReadLine();
-
-                        Console.WriteLine("Enter in due date: ");
-                        string userDueDate = Console.ReadLine();
-
-                        Console.WriteLine("Enter in priority level (High, Medium, Low)");
-                        string userPriority = Console.ReadLine();
-
-                        todoItem userItem = new todoItem(userTask, userDueDate, userPriority);
-
-                        ToDoList.Add(userItem);
-
-                        Console.WriteLine("Do you wish to enter in another item?");
-                        string newItemInput = Console.ReadLine();
-                        newItemInput.ToLower();
-
-                        if (newItemInput == "yes")
+                        continueProgram = true;
+                    }
+                    else
+                    {
+                        foreach (todoItem Item in ToDoList)
                         {
-                            continueProgram = true;
-                        }
-                        else
-                        {
-                            foreach (todoItem Item in ToDoList)
-                            {
-                                userItem.printItem();
-                            }
+                            Item.printItem();
 
-                            Console.ReadLine();
-
-                            continueProgram = false;
                         }
+
+                        Console.ReadLine();
+                        quitProgram = true;
+
                     }
                 }
             } while (quitProgram == false);
@@ -80,20 +78,11 @@ namespace ToDoList
                 this.Priority = Priority;
             }
 
-            public string printItem()
+            public void printItem()
             {
-                return $"{Description} | {DueDate} | {Priority}";
+                Console.WriteLine("\n{0} | {1} | {2}\n", Description, DueDate, Priority);
             }
 
-            //public string getDate()
-            //{
-            //    return $"{DueDate}";
-            //}
-
-            //public string getPriority()
-            //{
-            //    return $"{Priority}";
-            //}
         }
     }
 }
