@@ -4,8 +4,8 @@ C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ToDoList\bin\Debug\netcoreap
 C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ToDoList\bin\Debug\netcoreapp3.0\ToDoList.runtimeconfig.dev.json
 C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ToDoList\bin\Debug\netcoreapp3.0\ToDoList.dll
 C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ToDoList\bin\Debug\netcoreapp3.0\ToDoList.pdb
-C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.csprojAssemblyReference.cache
 C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.AssemblyInfoInputs.cache
 C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.AssemblyInfo.cs
 C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.dll
 C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.pdb
+C:\Users\Anthony\Documents\DevFolder\LCA_221-Csharp\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.csprojAssemblyReference.cache

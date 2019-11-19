@@ -10,52 +10,61 @@ namespace ToDoList
         //todoItem item1 = new todoItem("Set Description Here", "Due/Date/Here", "Priority");
         private static bool quitProgram = false;
 
+        private static bool continueProgram = true;
+
         private static void Main(string[] args)
         {
             Console.WriteLine("Press [Enter] to add item\nOtherwise press [Q] to quit");
-            string userInput = Console.ReadLine();
 
-            if (userInput == "q")
+            string quitInput = Console.ReadLine();
+            quitInput.ToLower();
+
+            do
             {
-                quitProgram = true;
-                Console.WriteLine("Goodbye!");
-            }
-            else
-
-                do
+                if (quitInput == "q")
                 {
-                    Console.WriteLine("Please enter in the To Do Action:");
-                    string userAction = Console.ReadLine();
-
-                    Console.WriteLine("Enter in due date: ");
-                    string userDueDate = Console.ReadLine();
-
-                    Console.WriteLine("Enter in priority level (High, Medium, Low)");
-                    string userPriority = Console.ReadLine();
-
-                    todoItem userItem = new todoItem(userAction, userDueDate, userPriority);
-                    ToDoList.Add(userItem);
-
-                    Console.WriteLine("Do you wish to enter in another item?");
-                    string newItemInput = Console.ReadLine();
-                    newItemInput.ToLower();
-
-                    if (userInput == "yes")
+                    quitProgram = true;
+                    Console.WriteLine("Goodbye!");
+                }
+                else
+                {
+                    while (continueProgram = true)
                     {
-                        break;
-                    }
-                    else
-                    {
-                        foreach  (todoItem Item in ToDoList)
+                        Console.WriteLine("Please enter in the task you need to do:");
+                        string userTask = Console.ReadLine();
+
+                        Console.WriteLine("Enter in due date: ");
+                        string userDueDate = Console.ReadLine();
+
+                        Console.WriteLine("Enter in priority level (High, Medium, Low)");
+                        string userPriority = Console.ReadLine();
+
+                        todoItem userItem = new todoItem(userTask, userDueDate, userPriority);
+
+                        ToDoList.Add(userItem);
+
+                        Console.WriteLine("Do you wish to enter in another item?");
+                        string newItemInput = Console.ReadLine();
+                        newItemInput.ToLower();
+
+                        if (newItemInput == "yes")
                         {
-                            Console.WriteLine(userItem);
+                            continueProgram = true;
+                        }
+                        else
+                        {
+                            foreach (todoItem Item in ToDoList)
+                            {
+                                userItem.printItem();
+                            }
+
+                            Console.ReadLine();
+
+                            continueProgram = false;
                         }
                     }
-
-                    Console.ReadLine();
-                    quitProgram == true;
                 }
-                while (quitProgram == false);
+            } while (quitProgram == false);
         }
 
         public class todoItem
@@ -71,20 +80,20 @@ namespace ToDoList
                 this.Priority = Priority;
             }
 
-            public string getDesc()
+            public string printItem()
             {
-                return Description;
+                return $"{Description} | {DueDate} | {Priority}";
             }
 
-            public string getDate()
-            {
-                return DueDate;
-            }
+            //public string getDate()
+            //{
+            //    return $"{DueDate}";
+            //}
 
-            public string getPriority()
-            {
-                return Priority;
-            }
+            //public string getPriority()
+            //{
+            //    return $"{Priority}";
+            //}
         }
     }
 }
