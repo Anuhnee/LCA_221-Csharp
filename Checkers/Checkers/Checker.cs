@@ -34,15 +34,18 @@ namespace CheckersProgram
             if (team == Color.Black)
             {
                 int symbol = int.Parse("25CB", System.Globalization.NumberStyles.HexNumber);
-                //string openCircle = char.ConvertFromUtf32(openCircleId);
-                Symbol = char.ConvertFromUtf32(symbol);
+                //string openCircle = char.ConvertFromUtf32(symbol);
+                string  Blacksymbol = char.ConvertFromUtf32(symbol);
+
+                Console.Write(Blacksymbol);
             }
-            else if (team == Color.White)
+            else 
             {
                 int symbol = int.Parse("25CF", System.Globalization.NumberStyles.HexNumber);
                 //string closedCircle = char.ConvertFromUtf32(closedCircleId);
                 Symbol = char.ConvertFromUtf32(symbol);
             }
+
         }
     }
 }

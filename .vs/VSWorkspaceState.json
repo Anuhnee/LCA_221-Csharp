@@ -1,18 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-<<<<<<< HEAD
-    "\\ToDoList",
-    "\\ToDoList\\bin\\Debug",
-    "\\ToDoList\\bin\\Debug\\netcoreapp3.0",
-    "\\TowersOfHanoi"
+    "\\Checkers",
+    "\\Checkers\\Checkers"
   ],
-  "SelectedNode": "\\ToDoList\\ToDoProgram.cs",
-=======
-    "\\CarLot",
-    "\\CarLot\\CarLot"
-  ],
-  "SelectedNode": "\\CarLot",
->>>>>>> c318f8b0fc3d9016524e90f44216342fa93aae16
+  "SelectedNode": "\\Checkers\\Checkers\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
