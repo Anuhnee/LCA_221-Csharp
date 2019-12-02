@@ -9,9 +9,10 @@ namespace CheckersProgram
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-            Game game1 = new Game();
+            Game NewGame = new Game();
 
-            game1.DrawBoard();
+            NewGame.Start();
+            Console.ReadLine();
 
         }
 
